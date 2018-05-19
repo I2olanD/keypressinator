@@ -5,6 +5,7 @@ body {
 }
 
 #title {
+  margin: 5rem;
   color: white;
   text-align: center;
   font-family: sans-serif;
@@ -12,6 +13,7 @@ body {
 }
 
 #key {
+  margin: 0;
   color: #D16754;
   font-family: sans-serif;
   font-size: 20rem;
