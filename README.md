@@ -17,5 +17,3 @@ How to run it locally?
 ```bash
 yarn dev
 ```
-
-psst..... you can also use just npm.
