@@ -1,2 +1,5 @@
 const container = document.getElementById('key');
-window.addEventListener('keydown', event => container.textContent = event.keyCode);
+window.addEventListener('keydown', event => {
+  event.preventDefault();
+  container.textContent = event.keyCode;
+});
