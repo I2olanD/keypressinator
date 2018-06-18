@@ -3,17 +3,15 @@
 ## This is keypressinator
 Keypressinator lets you show your keycodes while your typing. **IN REAL TIME**.
 
-How to install dependencies?
-
 ## Hosted here
 [keypressinator](https://keypressinator.firebaseapp.com/)
 
+Install dependencies
 ```bash
 yarn
 ```
 
-How to run it locally?
-
+Run it
 ```bash
 yarn dev
 ```
