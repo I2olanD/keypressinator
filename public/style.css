@@ -2,12 +2,10 @@ body {
   padding: 0;
   margin: 0;
   background-color: #73b3c0;
+  font-family: sans-serif;
+  text-align: center;
 }
 
-h1 {
-  text-align: center;
-  font-family: sans-serif;
-}
 
 #title {
   margin: 5rem;
