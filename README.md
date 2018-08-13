@@ -1,11 +1,11 @@
+# [This is keypressinator](https://keypressinator.firebaseapp.com/)
+
 <img src="https://keypressinator.firebaseapp.com/example.png" alt="keypressinator">
 
-## This is keypressinator
-Keypressinator lets you show your keycodes while your typing. **IN REAL TIME**.
-
 ## Hosted here
-[keypressinator](https://keypressinator.firebaseapp.com/)
+https://keypressinator.firebaseapp.com/
 
+## Development
 Install dependencies
 ```bash
 yarn
